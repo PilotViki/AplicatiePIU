@@ -1,0 +1,4 @@
+9|teava|10|5|Plastic|Exterior
+10|teava|10|4|Metal|Baie
+11|teava|10|5|Plastic|Exterior
+12|teava|10|5|Metal|Bucatarie

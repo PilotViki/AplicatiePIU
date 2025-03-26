@@ -1,0 +1,5 @@
+1|Masă|200.5|10|Lemn|Interior
+2|Scaun|50.75|25|Plastic|Exterior
+3|Birou|350.0|5|Metal|Interior
+4|Lampa|75.5|15|Sticla|Interior
+5|Vas|20.0|50|Ceramica|Exterior

@@ -1,0 +1,6 @@
+C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\LibrarieModele\bin\Debug\LibrarieModele.dll
+C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\LibrarieModele\bin\Debug\LibrarieModele.pdb
+C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\LibrarieModele\obj\Debug\LibrarieModele.dll
+C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\LibrarieModele\obj\Debug\LibrarieModele.pdb

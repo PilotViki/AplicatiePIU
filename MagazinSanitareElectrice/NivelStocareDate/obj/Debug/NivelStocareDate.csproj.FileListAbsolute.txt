@@ -1,0 +1,9 @@
+C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\NivelStocareDate\bin\Debug\NivelStocareDate.dll
+C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\NivelStocareDate\bin\Debug\NivelStocareDate.pdb
+C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.AssemblyReference.cache
+C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CoreCompileInputs.cache
+C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\NivelStocareDate\obj\Debug\NivelStocareDate.dll
+C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\NivelStocareDate\obj\Debug\NivelStocareDate.pdb
+C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\NivelStocareDate\bin\Debug\LibrarieModele.dll
+C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\NivelStocareDate\bin\Debug\LibrarieModele.pdb
+C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\NivelStocareDate\obj\Debug\NivelSto.ECC26E05.Up2Date
