@@ -1,0 +1,2 @@
+1|Teava|10|5|Plastic|Bucatarie
+3|Teava 0,5mm|10,8|100|Cupru|Baie
