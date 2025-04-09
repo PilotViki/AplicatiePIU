@@ -1,0 +1,9 @@
+1|Teava|10|5|Plastic|Bucatarie
+3|Teava 0,5mm|10,8|100|Cupru|Baie
+4|teava|10|10|Cupru|Bucatarie
+5|teava|110|6|Ceramica|Exterior
+10|teava|32|44|Ceramica|Exterior
+7|teava|10|59|Ceramica|Exterior
+8|teava|10|70|Plastic|Exterior
+9|Teava|10|5|Cupru|Exterior
+10|Teava|10|9|Plastic|Bucatarie
