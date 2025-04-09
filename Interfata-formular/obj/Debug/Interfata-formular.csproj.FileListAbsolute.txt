@@ -1,4 +1,0 @@
-C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\Interfata-formular\obj\Debug\Interfata-formular.csproj.AssemblyReference.cache
-C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\Interfata-formular\obj\Debug\Interfata_formular.Properties.Resources.resources
-C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\Interfata-formular\obj\Debug\Interfata-formular.csproj.GenerateResource.cache
-C:\Users\PilotViki\Desktop\MagazinSanitareElectrice\Interfata-formular\obj\Debug\Interfata-formular.csproj.CoreCompileInputs.cache
